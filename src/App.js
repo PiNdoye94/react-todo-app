@@ -14,7 +14,7 @@ function App() {
       <div className="title"> Todo List</div>
         <TodoApp />
       <footer className="footer">
-        By <a href="http://Teknuflex.tech">TeknuFlex</a> Editor used is <a href="https://jpuri.github.io/react-draft-wysiwyg/#/">React Draft Wysiwyg</a>
+        By <a href="http://Teknuflex.tech">TeknuFlex</a> Todo App with Reactjs
       </footer>
     </div>
   );
